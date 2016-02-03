@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Konnektid/konnektid-asana.git"
   },
   "author": "Tijn Kersjes <tijn@konnktid.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Konnektid/konnektid-asana/issues"
   },
