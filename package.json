@@ -1,0 +1,18 @@
+{
+  "name": "konnektid-asana",
+  "version": "0.0.1",
+  "description": "Module for managing Asana tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konnektid/konnektid-asana.git"
+  },
+  "author": "Tijn Kersjes <tijn@konnktid.com>",
+  "bugs": {
+    "url": "https://github.com/Konnektid/konnektid-asana/issues"
+  },
+  "homepage": "https://github.com/Konnektid/konnektid-asana#readme"
+}
